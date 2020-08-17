@@ -6,4 +6,4 @@ Here is what I'm upto:
 - 🌱 I’m currently learning ... Spark
 - 💬 Ask me about ... DevOps
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/abhiaecs) , [Twitter](https://twitter.com/abhiaecs)
-- 📧 Email : abhilaa@deloitte.com
+- 📧 Email : abhi.aecs@gmail.com
